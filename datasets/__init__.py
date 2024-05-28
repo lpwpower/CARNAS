@@ -1,0 +1,1 @@
+from .spmotif_dataset import SPMotif
